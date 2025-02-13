@@ -1,0 +1,44 @@
+{
+  "name": "decks",
+  "description": "Repository containing various presentations delivered by the Digital Service at CMS",
+  "longDescription": "",
+  "status": "",
+  "permissions": {
+    "license": [
+      {
+        "name": "",
+        "URL": ""
+      }
+    ],
+    "usageType": "",
+    "exemptionText": ""
+  },
+  "organization": "",
+  "repositoryURL": "https://github.com/DSACMS/decks",
+  "vcs": "git",
+  "laborHours": 1326,
+  "platforms": [],
+  "categories": [],
+  "softwareType": "",
+  "languages": [],
+  "maintenance": "",
+  "date": {
+    "created": "2024-04-03T14:48:21Z",
+    "lastModified": "2025-02-13T19:33:25Z",
+    "metaDataLastUpdated": "2025-02-13T19:34:31.034Z"
+  },
+  "tags": [],
+  "contact": {
+    "email": "",
+    "name": ""
+  },
+  "localisation": false,
+  "repositoryType": "",
+  "userInput": false,
+  "fismaLevel": "",
+  "group": "",
+  "subsetInHealthcare": [],
+  "userType": [],
+  "repositoryHost": "github",
+  "maturityModelTier": 0
+}
