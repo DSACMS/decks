@@ -2,43 +2,43 @@
   "name": "decks",
   "description": "Repository containing various presentations delivered by the Digital Service at CMS",
   "longDescription": "",
-  "status": "",
+  "status": "Production",
   "permissions": {
     "license": [
       {
-        "name": "",
-        "URL": ""
+        "name": "CC0 1.0 Universal",
+        "URL": "https://github.com/DSACMS/decks/blob/main/LICENSE"
       }
     ],
-    "usageType": "",
+    "usageType": "openSource",
     "exemptionText": ""
   },
-  "organization": "",
+  "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/DSACMS/decks",
   "vcs": "git",
   "laborHours": 1326,
-  "platforms": [],
-  "categories": [],
+  "platforms": ["web"],
+  "categories": ["communications"],
   "softwareType": "",
-  "languages": [],
-  "maintenance": "",
+  "languages": ["markdown", "postscript"],
+  "maintenance": "standalone/other",
   "date": {
     "created": "2024-04-03T14:48:21Z",
     "lastModified": "2025-02-13T19:33:25Z",
     "metaDataLastUpdated": "2025-02-13T19:34:31.034Z"
   },
-  "tags": [],
+  "tags": ["presentations", "repository", "pdf"],
   "contact": {
-    "email": "",
-    "name": ""
+    "email": "opensource@cms.hhs.gov",
+    "name": "CMS/OA/DSAC"
   },
   "localisation": false,
-  "repositoryType": "",
+  "repositoryType": "data",
   "userInput": false,
-  "fismaLevel": "",
-  "group": "",
-  "subsetInHealthcare": [],
-  "userType": [],
-  "repositoryHost": "github",
-  "maturityModelTier": 0
+  "fismaLevel": "low",
+  "group": "CMS/OA/DSAC",
+  "subsetInHealthcare": ["operational"],
+  "userType": ["government"],
+  "repositoryHost": "github.com/DSACMS",
+  "maturityModelTier": 2
 }
