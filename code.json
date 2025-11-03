@@ -2,16 +2,16 @@
   "name": "decks",
   "version": "",
   "description": "Repository containing various presentations delivered by the Digital Service at CMS",
-  "longDescription": "",
+  "longDescription": "This repository contains various presentations delivered by the Digital Service at CMS at conferences, showcasing the team's work in digital transformation, and open source software within the agency.",
   "status": "Production",
   "permissions": {
-    "license": [
+    "licenses": [
       {
-        "name": "CC0 1.0 Universal",
+        "name": "CC0-1.0",
         "URL": "https://github.com/DSACMS/decks/blob/main/LICENSE"
       }
     ],
-    "usageType": "openSource",
+    "usageType": ["openSource"],
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
@@ -34,9 +34,9 @@
   "categories": [
     "communications"
   ],
-  "softwareType": "",
+  "softwareType": "standalone/other",
   "languages": [],
-  "maintenance": "standalone/other",
+  "maintenance": "internal",
   "contractNumber": [],
   "SBOM": "https://github.com/DSACMS/decks/network/dependencies",
   "relatedCode": [],
