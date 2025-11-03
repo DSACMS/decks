@@ -1,44 +1,75 @@
 {
   "name": "decks",
+  "version": "",
   "description": "Repository containing various presentations delivered by the Digital Service at CMS",
-  "longDescription": "",
+  "longDescription": "This repository contains various presentations delivered by the Digital Service at CMS at conferences, showcasing the team's work in digital transformation, and open source software within the agency.",
   "status": "Production",
   "permissions": {
-    "license": [
+    "licenses": [
       {
-        "name": "CC0 1.0 Universal",
+        "name": "CC0-1.0",
         "URL": "https://github.com/DSACMS/decks/blob/main/LICENSE"
       }
     ],
-    "usageType": "openSource",
+    "usageType": ["openSource"],
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/DSACMS/decks",
+  "repositoryHost": "github.com/DSACMS",
+  "repositoryVisibility": "public",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1326,
-  "platforms": ["web"],
-  "categories": ["communications"],
-  "softwareType": "",
-  "languages": ["markdown", "postscript"],
-  "maintenance": "standalone/other",
+  "laborHours": 1868,
+  "reuseFrequency": {
+    "forks": 2,
+    "clones": 0
+  },
+  "platforms": [
+    "web"
+  ],
+  "categories": [
+    "communications"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [],
+  "maintenance": "internal",
+  "contractNumber": [],
+  "SBOM": "https://github.com/DSACMS/decks/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2024-04-03T14:48:21Z",
-    "lastModified": "2025-02-13T19:33:25Z",
-    "metaDataLastUpdated": "2025-02-13T19:34:31.034Z"
+    "lastModified": "2025-10-09T17:52:39Z",
+    "metadataLastUpdated": "2025-11-03T22:41:12.737Z"
   },
-  "tags": ["presentations", "repository", "pdf"],
+  "tags": [
+    "presentations",
+    "repository",
+    "pdf"
+  ],
   "contact": {
     "email": "opensource@cms.hhs.gov",
     "name": "CMS/OA/DSAC"
   },
+  "feedbackMechanism": "https://github.com/DSACMS/decks/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
   "fismaLevel": "low",
   "group": "CMS/OA/DSAC",
-  "subsetInHealthcare": ["operational"],
-  "userType": ["government"],
-  "repositoryHost": "github.com/DSACMS",
+  "projects": [],
+  "systems": [],
+  "subsetInHealthcare": [
+    "operational"
+  ],
+  "userType": [
+    "government"
+  ],
   "maturityModelTier": 1
 }
