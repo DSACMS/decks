@@ -11,7 +11,9 @@
         "URL": "https://github.com/DSACMS/decks/blob/main/LICENSE"
       }
     ],
-    "usageType": ["openSource"],
+    "usageType": [
+      "openSource"
+    ],
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
@@ -23,7 +25,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1868,
+  "laborHours": 1915,
   "reuseFrequency": {
     "forks": 2,
     "clones": 0
@@ -44,8 +46,8 @@
   "partners": [],
   "date": {
     "created": "2024-04-03T14:48:21Z",
-    "lastModified": "2025-10-09T17:52:39Z",
-    "metadataLastUpdated": "2025-11-03T22:41:12.737Z"
+    "lastModified": "2026-03-19T16:03:46Z",
+    "metadataLastUpdated": "2026-04-01T02:50:35.516Z"
   },
   "tags": [
     "presentations",
